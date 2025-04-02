@@ -16,7 +16,7 @@
 	"startRouter": "通過路由器快速設置",
 	"startCustom": "使用你自己的 API 密鑰",
 	"telemetry": {
-		"title": "幫助改進 Roo Code",
+		"title": "幫助改進 Weavy",
 		"anonymousTelemetry": "發送匿名的錯誤和使用數據，以幫助我們修復錯誤並改進擴展功能。不會發送任何代碼、提示或個人信息。",
 		"changeSettings": "你隨時可以在<settingsLink>設置</settingsLink>底部更改此選項",
 		"settings": "設置",

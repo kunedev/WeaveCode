@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "自动批准:",
 		"none": "无",
-		"description": "自动批准允许Roo Code无需请求许可即可执行操作。仅为您完全信任的操作启用。更详细的配置可在<settingsLink>设置</settingsLink>中查看。",
+		"description": "自动批准允许Weavy无需请求许可即可执行操作。仅为您完全信任的操作启用。更详细的配置可在<settingsLink>设置</settingsLink>中查看。",
 		"actions": {
 			"readFiles": {
 				"label": "读取文件和目录",
@@ -211,8 +211,8 @@
 		"copyToInput": "复制到输入框（或按住Shift点击）"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code 3.11 已发布",
-		"description": "Roo Code 3.11带来显著的性能改进和新功能！",
+		"title": "🎉 Weavy 3.11 已发布",
+		"description": "Weavy 3.11带来显著的性能改进和新功能！",
 		"whatsNew": "新特性",
 		"feature1": "快速编辑 - 编辑现在应用得更快。减少等待，增加编码。",
 		"feature2": "API密钥余额 - 在设置中查看您的OpenRouter和Requesty余额。",

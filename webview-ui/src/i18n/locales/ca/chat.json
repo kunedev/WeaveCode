@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "Aprovació automàtica:",
 		"none": "Cap",
-		"description": "L'aprovació automàtica permet a Roo Code realitzar accions sense demanar permís. Activa-la només per a accions en les que confies plenament. Configuració més detallada disponible a la <settingsLink>Configuració</settingsLink>.",
+		"description": "L'aprovació automàtica permet a Weavy realitzar accions sense demanar permís. Activa-la només per a accions en les que confies plenament. Configuració més detallada disponible a la <settingsLink>Configuració</settingsLink>.",
 		"actions": {
 			"readFiles": {
 				"label": "Llegir fitxers i directoris",
@@ -211,8 +211,8 @@
 		"copyToInput": "Copiar a l'entrada (o Shift + clic)"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code 3.11 publicat",
-		"description": "Roo Code 3.11 aporta millores significatives de rendiment i noves funcionalitats!",
+		"title": "🎉 Weavy 3.11 publicat",
+		"description": "Weavy 3.11 aporta millores significatives de rendiment i noves funcionalitats!",
 		"whatsNew": "Novetats",
 		"feature1": "Edicions ràpides: Les edicions ara s'apliquen molt més ràpid. Menys espera, més codificació.",
 		"feature2": "Saldos de claus d'API: Visualitza els teus saldos d'OpenRouter i Requesty a la configuració.",

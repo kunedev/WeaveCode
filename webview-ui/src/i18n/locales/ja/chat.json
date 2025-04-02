@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "自動承認:",
 		"none": "なし",
-		"description": "自動承認はRoo Codeに許可を求めずに操作を実行する権限を与えます。完全に信頼できる操作のみ有効にしてください。より詳細な設定は<settingsLink>設定</settingsLink>で利用できます。",
+		"description": "自動承認はWeavyに許可を求めずに操作を実行する権限を与えます。完全に信頼できる操作のみ有効にしてください。より詳細な設定は<settingsLink>設定</settingsLink>で利用できます。",
 		"actions": {
 			"readFiles": {
 				"label": "ファイルとディレクトリの読み取り",
@@ -211,8 +211,8 @@
 		"copyToInput": "入力欄にコピー（またはShift + クリック）"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code 3.11 リリース",
-		"description": "Roo Code 3.11は大幅なパフォーマンス向上と新機能をもたらします！",
+		"title": "🎉 Weavy 3.11 リリース",
+		"description": "Weavy 3.11は大幅なパフォーマンス向上と新機能をもたらします！",
 		"whatsNew": "新機能",
 		"feature1": "高速編集 - 編集がより速く適用されるようになりました。待ち時間が少なく、コーディングがより効率的に。",
 		"feature2": "APIキー残高 - OpenRouterとRequestyの残高を設定で確認できます。",

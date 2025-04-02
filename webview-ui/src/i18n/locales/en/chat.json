@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "Auto-approve:",
 		"none": "None",
-		"description": "Auto-approve allows Roo Code to perform actions without asking for permission. Only enable for actions you fully trust. More detailed configuration available in <settingsLink>Settings</settingsLink>.",
+		"description": "Auto-approve allows Weavy to perform actions without asking for permission. Only enable for actions you fully trust. More detailed configuration available in <settingsLink>Settings</settingsLink>.",
 		"actions": {
 			"readFiles": {
 				"label": "Read files and directories",
@@ -204,8 +204,8 @@
 		}
 	},
 	"announcement": {
-		"title": "🎉 Roo Code 3.11 Released",
-		"description": "Roo Code 3.11 brings significant performance improvements and new features!",
+		"title": "🎉 Weavy 3.11 Released",
+		"description": "Weavy 3.11 brings significant performance improvements and new features!",
 		"whatsNew": "What's New",
 		"feature1": "Fast Edits: Edits now apply way faster. Less waiting, more coding.",
 		"feature2": "API Key Balances: View your OpenRouter and Requesty balances in settings.",

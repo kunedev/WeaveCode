@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "Tự động phê duyệt:",
 		"none": "Không",
-		"description": "Tự động phê duyệt cho phép Roo Code thực hiện hành động mà không cần xin phép. Chỉ bật cho các hành động bạn hoàn toàn tin tưởng. Cấu hình chi tiết hơn có sẵn trong <settingsLink>Cài đặt</settingsLink>.",
+		"description": "Tự động phê duyệt cho phép Weavy thực hiện hành động mà không cần xin phép. Chỉ bật cho các hành động bạn hoàn toàn tin tưởng. Cấu hình chi tiết hơn có sẵn trong <settingsLink>Cài đặt</settingsLink>.",
 		"actions": {
 			"readFiles": {
 				"label": "Đọc tệp và thư mục",
@@ -211,8 +211,8 @@
 		"copyToInput": "Sao chép vào ô nhập liệu (hoặc Shift + nhấp chuột)"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code 3.11 Đã phát hành",
-		"description": "Roo Code 3.11 mang đến những cải tiến hiệu suất đáng kể và các tính năng mới!",
+		"title": "🎉 Weavy 3.11 Đã phát hành",
+		"description": "Weavy 3.11 mang đến những cải tiến hiệu suất đáng kể và các tính năng mới!",
 		"whatsNew": "Có gì mới",
 		"feature1": "Chỉnh sửa nhanh - Các chỉnh sửa giờ đây được áp dụng nhanh hơn nhiều. Ít thời gian chờ đợi, nhiều thời gian lập trình.",
 		"feature2": "Số dư khóa API - Xem số dư OpenRouter và Requesty của bạn trong cài đặt.",

@@ -29,7 +29,7 @@
 		"advanced": "進階",
 		"experimental": "實驗性功能",
 		"language": "語言",
-		"about": "關於 Roo Code"
+		"about": "關於 Weavy"
 	},
 	"autoApprove": {
 		"description": "允許 Roo 無需批准即執行操作。僅在您完全信任 AI 並了解相關安全風險時啟用這些設定。",
@@ -151,13 +151,13 @@
 			"draftModelDesc": "草稿模型必須來自相同模型系列才能正確運作。",
 			"selectDraftModel": "選擇草稿模型",
 			"noModelsFound": "未找到草稿模型。請確保 LM Studio 以伺服器模式運行。",
-			"description": "LM Studio 允許您在本地電腦運行模型。詳細資訊請參閱快速入門指南。您需要啟動 LM Studio 的本地伺服器功能才能與此擴充功能搭配使用。<span>注意：</span> Roo Code 使用複雜提示，與 Claude 模型搭配最佳。功能較弱的模型可能無法正常運作。"
+			"description": "LM Studio 允許您在本地電腦運行模型。詳細資訊請參閱快速入門指南。您需要啟動 LM Studio 的本地伺服器功能才能與此擴充功能搭配使用。<span>注意：</span> Weavy 使用複雜提示，與 Claude 模型搭配最佳。功能較弱的模型可能無法正常運作。"
 		},
 		"ollama": {
 			"baseUrl": "基礎 URL（可選）",
 			"modelId": "模型 ID",
 			"description": "Ollama 允許您在本地電腦運行模型。請參閱快速入門指南。",
-			"warning": "注意：Roo Code 使用複雜提示，與 Claude 模型搭配最佳。功能較弱的模型可能無法正常運作。"
+			"warning": "注意：Weavy 使用複雜提示，與 Claude 模型搭配最佳。功能較弱的模型可能無法正常運作。"
 		},
 		"unboundApiKey": "Unbound API 金鑰",
 		"getUnboundApiKey": "取得 Unbound API 金鑰",
@@ -370,7 +370,7 @@
 		}
 	},
 	"modelPicker": {
-		"automaticFetch": "擴充功能會自動取得 {{serviceName}} 上最新模型列表。若不確定選擇，Roo Code 與 {{defaultModelId}} 搭配最佳。",
+		"automaticFetch": "擴充功能會自動取得 {{serviceName}} 上最新模型列表。若不確定選擇，Weavy 與 {{defaultModelId}} 搭配最佳。",
 		"label": "模型",
 		"searchPlaceholder": "搜尋",
 		"noMatchFound": "未找到相符項目",
@@ -378,10 +378,10 @@
 	},
 	"footer": {
 		"feedback": "若有問題或建議，請在 <githubLink>GitHub</githubLink> 建立 issue 或加入 <discordLink>Discord</discordLink>",
-		"version": "Roo Code v{{version}}",
+		"version": "Weavy v{{version}}",
 		"telemetry": {
 			"label": "允許匿名錯誤和使用報告",
-			"description": "匿名資料協助改善 Roo Code，絕不傳送程式碼或個人資訊"
+			"description": "匿名資料協助改善 Weavy，絕不傳送程式碼或個人資訊"
 		},
 		"settings": {
 			"import": "匯入",

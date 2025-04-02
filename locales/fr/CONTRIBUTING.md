@@ -1,6 +1,6 @@
-# Contribuer à Roo Code
+# Contribuer à Weavy
 
-Nous sommes ravis que vous soyez intéressé à contribuer à Roo Code. Que vous corrigiez un bug, ajoutiez une fonctionnalité ou amélioriez notre documentation, chaque contribution rend Roo Code plus intelligent ! Pour maintenir notre communauté dynamique et accueillante, tous les membres doivent adhérer à notre [Code de Conduite](CODE_OF_CONDUCT.md).
+Nous sommes ravis que vous soyez intéressé à contribuer à Weavy. Que vous corrigiez un bug, ajoutiez une fonctionnalité ou amélioriez notre documentation, chaque contribution rend Weavy plus intelligent ! Pour maintenir notre communauté dynamique et accueillante, tous les membres doivent adhérer à notre [Code de Conduite](CODE_OF_CONDUCT.md).
 
 ## Rejoindre Notre Communauté
 
@@ -9,12 +9,12 @@ Nous encourageons fortement tous les contributeurs à rejoindre notre [communaut
 - Obtenir de l'aide et des conseils en temps réel sur vos contributions
 - Vous connecter avec d'autres contributeurs et membres de l'équipe principale
 - Rester informé des développements et priorités du projet
-- Participer aux discussions qui façonnent l'avenir de Roo Code
+- Participer aux discussions qui façonnent l'avenir de Weavy
 - Trouver des opportunités de collaboration avec d'autres développeurs
 
 ## Signaler des Bugs ou des Problèmes
 
-Les rapports de bugs aident à améliorer Roo Code pour tout le monde ! Avant de créer un nouveau problème, veuillez [rechercher parmi les existants](https://github.com/RooVetGit/Roo-Code/issues) pour éviter les doublons. Lorsque vous êtes prêt à signaler un bug, rendez-vous sur notre [page d'issues](https://github.com/RooVetGit/Roo-Code/issues/new/choose) où vous trouverez un modèle pour vous aider à remplir les informations pertinentes.
+Les rapports de bugs aident à améliorer Weavy pour tout le monde ! Avant de créer un nouveau problème, veuillez [rechercher parmi les existants](https://github.com/RooVetGit/Roo-Code/issues) pour éviter les doublons. Lorsque vous êtes prêt à signaler un bug, rendez-vous sur notre [page d'issues](https://github.com/RooVetGit/Roo-Code/issues/new/choose) où vous trouverez un modèle pour vous aider à remplir les informations pertinentes.
 
 <blockquote class='warning-note'>
      🔐 <b>Important :</b> Si vous découvrez une vulnérabilité de sécurité, veuillez utiliser <a href="https://github.com/RooVetGit/Roo-Code/security/advisories/new">l'outil de sécurité Github pour la signaler en privé</a>.
@@ -22,15 +22,15 @@ Les rapports de bugs aident à améliorer Roo Code pour tout le monde ! Avant de
 
 ## Décider Sur Quoi Travailler
 
-Vous cherchez une bonne première contribution ? Consultez les issues dans la section "Issue [Unassigned]" de notre [Projet Github Roo Code Issues](https://github.com/orgs/RooVetGit/projects/1). Celles-ci sont spécifiquement sélectionnées pour les nouveaux contributeurs et les domaines où nous aimerions recevoir de l'aide !
+Vous cherchez une bonne première contribution ? Consultez les issues dans la section "Issue [Unassigned]" de notre [Projet Github Weavy Issues](https://github.com/orgs/RooVetGit/projects/1). Celles-ci sont spécifiquement sélectionnées pour les nouveaux contributeurs et les domaines où nous aimerions recevoir de l'aide !
 
-Nous accueillons également les contributions à notre [documentation](https://docs.roocode.com/) ! Qu'il s'agisse de corriger des fautes de frappe, d'améliorer les guides existants ou de créer du nouveau contenu éducatif - nous aimerions construire un référentiel de ressources guidé par la communauté qui aide chacun à tirer le meilleur parti de Roo Code. Vous pouvez cliquer sur "Edit this page" sur n'importe quelle page pour accéder rapidement au bon endroit dans Github pour éditer le fichier, ou vous pouvez plonger directement dans https://github.com/RooVetGit/Roo-Code-Docs.
+Nous accueillons également les contributions à notre [documentation](https://docs.roocode.com/) ! Qu'il s'agisse de corriger des fautes de frappe, d'améliorer les guides existants ou de créer du nouveau contenu éducatif - nous aimerions construire un référentiel de ressources guidé par la communauté qui aide chacun à tirer le meilleur parti de Weavy. Vous pouvez cliquer sur "Edit this page" sur n'importe quelle page pour accéder rapidement au bon endroit dans Github pour éditer le fichier, ou vous pouvez plonger directement dans https://github.com/RooVetGit/Roo-Code-Docs.
 
-Si vous prévoyez de travailler sur une fonctionnalité plus importante, veuillez d'abord créer une [demande de fonctionnalité](https://github.com/RooVetGit/Roo-Code/discussions/categories/feature-requests?discussions_q=is%3Aopen+category%3A%22Feature+Requests%22+sort%3Atop) afin que nous puissions discuter si elle s'aligne avec la vision de Roo Code. Vous pouvez également consulter notre [Feuille de route du projet](#feuille-de-route-du-projet) ci-dessous pour voir si votre idée s'inscrit dans notre orientation stratégique.
+Si vous prévoyez de travailler sur une fonctionnalité plus importante, veuillez d'abord créer une [demande de fonctionnalité](https://github.com/RooVetGit/Roo-Code/discussions/categories/feature-requests?discussions_q=is%3Aopen+category%3A%22Feature+Requests%22+sort%3Atop) afin que nous puissions discuter si elle s'aligne avec la vision de Weavy. Vous pouvez également consulter notre [Feuille de route du projet](#feuille-de-route-du-projet) ci-dessous pour voir si votre idée s'inscrit dans notre orientation stratégique.
 
 ## Feuille de route du projet
 
-Roo Code dispose d'une feuille de route de développement claire qui guide nos priorités et notre orientation future. Comprendre notre feuille de route peut vous aider à :
+Weavy dispose d'une feuille de route de développement claire qui guide nos priorités et notre orientation future. Comprendre notre feuille de route peut vous aider à :
 
 - Aligner vos contributions avec les objectifs du projet
 - Identifier les domaines où votre expertise serait la plus précieuse
@@ -82,10 +82,10 @@ Nous voulons réduire considérablement le nombre de bugs et augmenter les tests
 
 Nous voulons que Roo parle la langue de tous :
 
-- 我们希望 Roo Code 说每个人的语言
-- Queremos que Roo Code hable el idioma de todos
-- हम चाहते हैं कि Roo Code हर किसी की भाषा बोले
-- نريد أن يتحدث Roo Code لغة الجميع
+- 我们希望 Weavy 说每个人的语言
+- Queremos que Weavy hable el idioma de todos
+- हम चाहते हैं कि Weavy हर किसी की भाषा बोले
+- نريد أن يتحدث Weavy لغة الجميع
 
 Nous accueillons particulièrement les contributions qui font progresser nos objectifs de feuille de route. Si vous travaillez sur quelque chose qui s'aligne avec ces piliers, veuillez le mentionner dans la description de votre PR.
 
@@ -110,7 +110,7 @@ npm run dev
 ```
 
 4. **Débogage** :
-   Appuyez sur `F5` (ou **Exécuter** → **Démarrer le débogage**) dans VSCode pour ouvrir une nouvelle session avec Roo Code chargé.
+   Appuyez sur `F5` (ou **Exécuter** → **Démarrer le débogage**) dans VSCode pour ouvrir une nouvelle session avec Weavy chargé.
 
 Les modifications apportées à la vue web apparaîtront immédiatement. Les modifications apportées à l'extension principale nécessiteront un redémarrage de l'hôte d'extension.
 
@@ -128,7 +128,7 @@ code --install-extension bin/roo-cline-<version>.vsix
 
 ## Écrire et Soumettre du Code
 
-Tout le monde peut contribuer avec du code à Roo Code, mais nous vous demandons de suivre ces directives pour vous assurer que vos contributions puissent être intégrées en douceur :
+Tout le monde peut contribuer avec du code à Weavy, mais nous vous demandons de suivre ces directives pour vous assurer que vos contributions puissent être intégrées en douceur :
 
 1. **Gardez les Pull Requests Ciblées**
 

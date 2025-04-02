@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "Auto-approvazione:",
 		"none": "Nessuna",
-		"description": "L'auto-approvazione permette a Roo Code di eseguire azioni senza chiedere permesso. Abilita solo per azioni di cui ti fidi completamente. Configurazione più dettagliata disponibile nelle <settingsLink>Impostazioni</settingsLink>.",
+		"description": "L'auto-approvazione permette a Weavy di eseguire azioni senza chiedere permesso. Abilita solo per azioni di cui ti fidi completamente. Configurazione più dettagliata disponibile nelle <settingsLink>Impostazioni</settingsLink>.",
 		"actions": {
 			"readFiles": {
 				"label": "Leggi file e directory",
@@ -211,8 +211,8 @@
 		"copyToInput": "Copia nell'input (o Shift + clic)"
 	},
 	"announcement": {
-		"title": "🎉 Rilasciato Roo Code 3.11",
-		"description": "Roo Code 3.11 porta significativi miglioramenti di prestazioni e nuove funzionalità!",
+		"title": "🎉 Rilasciato Weavy 3.11",
+		"description": "Weavy 3.11 porta significativi miglioramenti di prestazioni e nuove funzionalità!",
 		"whatsNew": "Novità",
 		"feature1": "Modifiche veloci - Le modifiche ora vengono applicate molto più velocemente. Meno attesa, più codifica.",
 		"feature2": "Saldi delle chiavi API - Visualizza i tuoi saldi OpenRouter e Requesty nelle impostazioni.",

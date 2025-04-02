@@ -159,7 +159,7 @@
 	"autoApprove": {
 		"title": "Automatyczne zatwierdzanie:",
 		"none": "Brak",
-		"description": "Automatyczne zatwierdzanie pozwala Roo Code wykonywać działania bez pytania o pozwolenie. Włącz tylko dla działań, którym w pełni ufasz. Bardziej szczegółowa konfiguracja dostępna w <settingsLink>Ustawieniach</settingsLink>.",
+		"description": "Automatyczne zatwierdzanie pozwala Weavy wykonywać działania bez pytania o pozwolenie. Włącz tylko dla działań, którym w pełni ufasz. Bardziej szczegółowa konfiguracja dostępna w <settingsLink>Ustawieniach</settingsLink>.",
 		"actions": {
 			"readFiles": {
 				"label": "Czytaj pliki i katalogi",
@@ -211,8 +211,8 @@
 		"copyToInput": "Kopiuj do pola wprowadzania (lub Shift + kliknięcie)"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code 3.11 wydany",
-		"description": "Roo Code 3.11 przynosi znaczące usprawnienia wydajności i nowe funkcje!",
+		"title": "🎉 Weavy 3.11 wydany",
+		"description": "Weavy 3.11 przynosi znaczące usprawnienia wydajności i nowe funkcje!",
 		"whatsNew": "Co nowego",
 		"feature1": "Szybkie edycje - Zmiany są teraz stosowane znacznie szybciej. Mniej czekania, więcej kodowania.",
 		"feature2": "Salda kluczy API - Sprawdź stan swoich kont OpenRouter i Requesty w ustawieniach.",
