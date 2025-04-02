@@ -1,8 +1,8 @@
 {
-	"name": "roo-cline",
-	"displayName": "Roo Code (prev. Roo Cline)",
-	"description": "A whole dev team of AI agents in your editor.",
-	"publisher": "RooVeterinaryInc",
+	"name": "weavy",
+	"displayName": "Weavy (Kune-modified Roo Code)",
+	"description": "Kune-aware AI agents",
+	"publisher": "Kune",
 	"version": "3.10.2",
 	"icon": "assets/icons/rocket.png",
 	"galleryBanner": {
@@ -18,9 +18,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/RooVetGit/Roo-Code"
+		"url": "https://github.com/kunedev/weavecode"
 	},
-	"homepage": "https://github.com/RooVetGit/Roo-Code",
+	"homepage": "https://kune.dev",
 	"categories": [
 		"AI",
 		"Chat",
@@ -43,7 +43,9 @@
 		"ai",
 		"llama",
 		"roo code",
-		"roocode"
+		"roocode",
+		"kune",
+		"realajo"
 	],
 	"activationEvents": [
 		"onLanguage",
@@ -54,18 +56,18 @@
 		"submenus": [
 			{
 				"id": "roo-code.contextMenu",
-				"label": "Roo Code"
+				"label": "Weavy"
 			},
 			{
 				"id": "roo-code.terminalMenu",
-				"label": "Roo Code"
+				"label": "Weavy"
 			}
 		],
 		"viewsContainers": {
 			"activitybar": [
 				{
 					"id": "roo-cline-ActivityBar",
-					"title": "Roo Code",
+					"title": "Weavy",
 					"icon": "$(rocket)"
 				}
 			]
@@ -258,7 +260,7 @@
 			]
 		},
 		"configuration": {
-			"title": "Roo Code",
+			"title": "Weavy",
 			"properties": {
 				"roo-cline.allowedCommands": {
 					"type": "array",
